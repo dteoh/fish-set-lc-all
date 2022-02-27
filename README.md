@@ -27,7 +27,7 @@ This plugin sets the `LC_ALL` environment variable to `en_US.UTF-8`.
 Assuming that you are using a fish shell plugin manager such as [Fisher][1]:
 
 ```
-$ fisher add dteoh/fish-set-lc-all
+$ fisher install dteoh/fish-set-lc-all
 ```
 
 ... then start a new shell.
